@@ -4,6 +4,8 @@
 2. Microphone (for analog data)
 3. jupyter Notebook
 4. Platform IO
+5. Microsoft excel
+
 
 
  
